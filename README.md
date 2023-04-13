@@ -1,2 +1,2 @@
 # lopestalk-backend
-LopesTalk's backend, built with SpringBoot in Java, provides essential functionality for the app. APIs for user registration, login, generating Journey Paths, and task management with CRUD functionality. Seamless integration with the frontend for a smooth user experience.
+LopesTalk's backend is built using SpringBoot, a Java-based framework, and provides essential functionality for the app. It uses public APIs to provide users with motivational quotes, as well as custom APIs for user registration and login, generating Journey Paths, and managing tasks using CRUD functionality. With its robust architecture and streamlined design, the LopesTalk backend enables seamless integration with the frontend and helps provide a smooth user experience.
